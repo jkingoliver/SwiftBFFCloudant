@@ -1,0 +1,3 @@
+.build/							usr/src/swiftBFFCloudant
+terraform/scripts/install.sh	usr/src/swiftBFFCloudant
+terraform/scripts/start.sh		usr/src/swiftBFFCloudant
